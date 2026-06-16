@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Nimish
 
-<!--
-**nimish9335/nimish9335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Full Stack Development
+- 🚀 Building Web Projects
+- 📍 India
+
+## Skills
+
+HTML • CSS • JavaScript • Git • GitHub
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact)
+
+## Connect
+
+- GitHub: https://github.com/nimish9335
