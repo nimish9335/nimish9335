@@ -10,7 +10,9 @@
 
 ## Skills
 
-HTML • CSS • JavaScript • Git • GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ## GitHub Stats
 
