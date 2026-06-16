@@ -1,5 +1,4 @@
-![Banner]
-(https://raw.githubusercontent.com/nimish9335/nimish9335/refs/heads/main/nimish_github_banner.png)
+![Banner](https://raw.githubusercontent.com/nimish9335/nimish9335/refs/heads/main/nimish_github_banner.png)
 # Hi 👋, I'm Nimish
 
 💻 Web Developer
