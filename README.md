@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;React+Developer;Always+Learning+New+Things" />
 </p>
+
 # Hi 👋, I'm Nimish Patel
 
 ### Full Stack Developer | MERN Stack Enthusiast
@@ -14,16 +15,39 @@
 
 📍 India
 
-## About Me
+## 👨‍💻 About Me
 
-- 🌱 Learning Full Stack Development
-- 🚀 Building Web Projects
-- 📍 India
+- 🔭 Currently working on Full Stack Web Development projects
+- 🌱 Learning MERN Stack and Backend Development
+- 💡 Interested in Web Technologies and Problem Solving
+- 🎯 Goal: Become a skilled Software Developer
+- ⚡ Fun fact: I enjoy turning ideas into real applications
 
-## Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bootstrap,react,nodejs,mongodb,git,github,vscode" />
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## GitHub Stats
