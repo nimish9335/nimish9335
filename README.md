@@ -32,7 +32,7 @@
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
@@ -47,18 +47,31 @@
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact)
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nimish9335&theme=tokyonight&hide_border=true" />
+</p>
 
-## Connect
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/nimish9335
-## Contribution Snake
+<p align="center">
+  <a href="https://github.com/nimish9335">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-![Snake](https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
