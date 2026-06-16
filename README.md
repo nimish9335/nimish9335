@@ -11,8 +11,8 @@
 
 ## Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bootstrap,react,nodejs,mongodb,git,github,vscode" />
 </p>
 
 ## GitHub Stats
