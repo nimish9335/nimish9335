@@ -24,3 +24,6 @@
 ## Connect
 
 - GitHub: https://github.com/nimish9335
+## Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake.svg)
