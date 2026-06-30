@@ -147,35 +147,14 @@ Become a Software Development Engineer.
 
 ---
 
-# ⚡ Skills
-
-```text
-Frontend        ██████████ 100%
-
-Backend         █████████░ 90%
-
-React           █████████░ 90%
-
-Node.js         █████████░ 90%
-
-Express         █████████░ 90%
-
-MongoDB         ████████░░ 85%
-
-DSA             ██████████ 95%
-
-Problem Solving ██████████ 95%
-
-Python          ███████░░░ 75%
-```
-
----
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 </p>
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -203,6 +182,16 @@ Python          ███████░░░ 75%
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimish9335&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/0891b2/nimish9335" alt="GitHub Calendar"/>
 
 </p>
 
@@ -244,9 +233,6 @@ Python          ███████░░░ 75%
 
 # 🚀 GitHub Metrics Dashboard
 
-> ⚠️ **Ye card tabhi dikhega jab GitHub Metrics Action setup hoga.**
-> Main Part 4 me uska workflow bhi dunga.
-
 <p align="center">
 
 <img width="100%" src="https://metrics.lecoq.io/nimish9335?template=classic&config.timezone=Asia%2FKolkata&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&habits=1&isocalendar=1&followup=1&repositories=100&stars=100"/>
@@ -255,31 +241,14 @@ Python          ███████░░░ 75%
 
 ---
 
-# 📈 GitHub Performance
-
-```text
-Repositories        ██████████
-
-Commits             ██████████
-
-Pull Requests       ████████░░
-
-Issues              ███████░░░
-
-Code Reviews        ███████░░░
-
-Open Source         █████████░
-
-Consistency         ██████████
-```
-
----
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
 </p>
+
+---
+
 # 🏆 Competitive Programming
 
 <p align="center">
@@ -307,8 +276,6 @@ Consistency         ██████████
 ---
 
 # 💙 Codeforces Statistics
-
-> ⚠️ If this card doesn't load, don't worry. It depends on a third-party service.
 
 <p align="center">
 
@@ -345,30 +312,6 @@ Consistency         ██████████
 <img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge"/>
 
 </a>
-
-</p>
-
----
-
-# 🎵 Spotify
-
-> ⚠️ This section works **only after Spotify GitHub integration** is configured.
-
-<p align="center">
-
-<img width="70%" src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false"/>
-
-</p>
-
----
-
-# ⏱️ WakaTime Coding Statistics
-
-> ⚠️ This card appears only after connecting your WakaTime account.
-
-<p align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=nimish9335&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -413,61 +356,6 @@ Consistency         ██████████
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-</p>
----
-
-# 🎧 Currently Playing on Spotify
-
-> ⚠️ Configure Spotify GitHub integration to display your currently playing track.
-
-<p align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
-
-</a>
-
-</p>
-
----
-
-# ⌨️ Coding Time (WakaTime)
-
-> ⚠️ Configure your WakaTime account and GitHub Action.
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nimish9335&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> ⚠️ This animation appears after enabling the Snake GitHub Action.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Open Source
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Love-Clean%20Code-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Always-Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MERN-Full%20Stack-00C853?style=for-the-badge"/>
 
 </p>
 
