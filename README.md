@@ -1,240 +1,202 @@
+# Hi 👋, I'm Nimish Patel
+
+```{=html}
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nimish9335/nimish9335/main/nimish_github_banner.png" width="100%" alt="Banner"/>
+```
+`<img src="https://raw.githubusercontent.com/nimish9335/nimish9335/main/nimish_github_banner.png" width="100%" alt="Banner"/>`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋 I'm Nimish Patel</h1>
-
+```
+```{=html}
 <h3 align="center">
-🚀 Full Stack MERN Developer | 💻 Competitive Programmer | 🌟 Open Source Enthusiast
+```
+🚀 Full Stack MERN Developer • Competitive Programmer • MERN Enthusiast
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Competitive+Programmer;1000%2B+DSA+Problems+Solved;React+%7C+Node+%7C+MongoDB;Python+Learner;Backend+Developer;Always+Learning+New+Things"/>
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;LeetCode+Rating+1872;1150%2B+DSA+Problems+Solved;Codeforces+1252;Always+Building+%26+Learning"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nimish9335&label=Profile+Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/nimish9335?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/nimish9335?label=Stars&style=social"/>
-
+```
+`<img src="https://komarev.com/ghpvc/?username=nimish9335&label=Profile+Views&color=0e75b6&style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/github/followers/nimish9335?style=for-the-badge&logo=github"/>`{=html}
+`<img src="https://img.shields.io/github/stars/nimish9335?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 B.Tech Student at **NIT Raipur**
+-   🎓 B.Tech @ **NIT Raipur**
+-   💻 Full Stack MERN Developer
+-   🧩 **1150+ DSA Problems Solved**
+-   🟠 **LeetCode Rating: 1872**
+-   ⭐ CodeChef **2★**
+-   📈 Codeforces **1252**
+-   🚀 70+ Coding Contests
+-   🌱 Learning **System Design, AI Tools & Backend**
+-   🎯 Goal: Become an SDE
 
-💻 Passionate Full Stack MERN Developer
-
-🚀 Love Building Real World Projects
-
-🧠 Strong Interest in Backend Development
-
-📚 Currently Learning System Design
-
-🌱 Exploring Python & Data Analytics
-
-🎯 Goal → Become a Software Development Engineer
-
----
-
-# 🏆 Competitive Programming
-
-- 💛 **1000+ DSA Problems Solved**
-- ⭐ **CodeChef 2★**
-- 🚀 **70+ Coding Contests**
-- 💙 **Codeforces Rating : 1252**
-- 🟠 **Active LeetCode Solver**
-
----
-
-# 🚀 Current Focus
-
-- 🔥 Full Stack MERN Projects
-- ⚡ Backend Development
-- 💻 Daily DSA Practice
-- 📚 System Design
-- 🌍 Open Source
-- 🤖 Learning AI Tools
-
----
+------------------------------------------------------------------------
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### Languages
 
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>`{=html}
+```{=html}
 </p>
+```
+### Frontend
 
----
-
-## 🎨 Frontend
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
+```
+`<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>`{=html}
+```{=html}
 </p>
+```
+### Backend
 
----
-
-## ⚙ Backend
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express"/>`{=html}
+```{=html}
 </p>
+```
+### Database
 
----
-
-## 🗄 Database
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+```
+`<img src="https://skillicons.dev/icons?i=mongodb"/>`{=html}
+```{=html}
 </p>
+```
+### Tools
 
----
-
-## 🧰 Tools
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚀 HireHub | Full Stack Job Portal using MERN Stack |
-| 🌐 Portfolio Website | Responsive Portfolio using React |
-| 📊 Data Analytics | Python, NumPy & Pandas Projects |
+  Project            Tech
+  ------------------ -----------------------
+  HireHub            MERN, JWT, Cloudinary
+  Portfolio          React
+  Python Analytics   Python, NumPy, Pandas
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nimish9335&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # 📊 GitHub Analytics
 
+```{=html}
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nimish9335&theme=tokyonight&hide_border=true"/>
-
+```
+`<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nimish9335&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 📈 Contribution Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimish9335&theme=tokyo-night&hide_border=true"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=nimish9335&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🌐 Connect With Me
+# 🌐 Coding Profiles
 
+```{=html}
 <p align="center">
-
-<a href="https://github.com/nimish9335">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nimish-patel-6b9827317/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:np4447292@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+```
+`<a href="https://leetcode.com/u/nimishpatel9335/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>`{=html}`</a>`{=html}
+`<a href="https://codeforces.com/profile/nimish9335">`{=html}`<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>`{=html}`</a>`{=html}
+`<a href="https://www.codechef.com/users/nimish9335">`{=html}`<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>`{=html}`</a>`{=html}
+`<a href="https://codolio.com/profile/nimish">`{=html}`<img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 💻 Coding Profiles
+# 📫 Connect With Me
 
+```{=html}
 <p align="center">
-
-<a href="https://leetcode.com/u/nimishpatel9335/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/nimish9335">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/nimish9335">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://codolio.com/profile/nimish">
-<img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge"/>
-</a>
-
+```
+`<a href="https://www.linkedin.com/in/nimish-patel-6b9827317/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+`<a href="mailto:np4447292@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/nimish9335">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🐍 Contribution Snake
 
+```{=html}
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake.svg"/>
-
+```
+`<img src="https://raw.githubusercontent.com/nimish9335/nimish9335/output/github-contribution-grid-snake.svg"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 💬 Random Dev Quote
+# 💭 Developer Quote
 
-<p align="center">
+> **"Consistency compounds. Every commit is a step closer to mastery."**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+------------------------------------------------------------------------
 
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- 💻 I love solving coding challenges.
-- 🚀 Learning something new every day.
-- 🌍 Open Source Enthusiast.
-- ☕ Coffee + Code = Productivity.
-- 🎯 Consistency beats motivation.
-
----
-
+```{=html}
 <h3 align="center">
-
+```
 ⭐ Thanks for visiting my profile ⭐
-
+```{=html}
 </h3>
-
+```
+```{=html}
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,100:7B61FF&section=footer"/>`{=html}
+```{=html}
 </p>
+```
