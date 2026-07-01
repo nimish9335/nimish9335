@@ -42,15 +42,17 @@ Hi 👋 I'm Nimish Patel
 
 ## 👋 Hi, I'm Nimish Patel
 
-🎓 B.Tech Student at **NIT Raipur** (Batch of 2027)
+🎓 B.Tech Student @ **NIT Raipur** (2027)
 
-💻 Full Stack **MERN Developer** with a strong interest in **Backend Development** and building scalable web applications.
+💻 Full Stack **MERN Developer**
 
-🧠 I enjoy solving challenging **Data Structures & Algorithms** problems and continuously improving my problem-solving skills through competitive programming.
+⚙️ Passionate about **Backend Development** and scalable applications.
 
-🚀 Currently exploring **System Design**, **Scalable Backend Architecture**, **AI-powered Developer Tools**, and modern web technologies to build production-ready software.
+🧩 Love solving **Data Structures & Algorithms** problems.
 
-✨ I believe in writing clean, maintainable code, learning consistently, and turning ideas into impactful applications.
+🚀 Currently learning **System Design**, **Scalable Backend**, and **AI Developer Tools**.
+
+✨ Always building, learning, and improving every day.
 
 > **"Code. Learn. Build. Repeat. 🚀"**
 ---
