@@ -40,34 +40,62 @@ Hi 👋 I'm Nimish Patel
 
 <img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### 👨‍💻 Nimish Patel
+## 👋 Hi, I'm Nimish Patel
 
-🎓 B.Tech Student @ **NIT Raipur**
+🎓 **B.Tech Student @ NIT Raipur (2027)**
 
-💻 Full Stack MERN Developer
+💻 **Full Stack MERN Developer**
 
-🔥 Passionate about Backend Development
+⚡ Passionate about building scalable backend systems, writing clean code, and solving challenging DSA problems.
 
-🧠 Strong Problem Solver
+🚀 Currently preparing for **Software Development Engineer (SDE)** roles while continuously improving my development and problem-solving skills.
 
-🌱 Currently Learning
+---
 
-- System Design
-- Scalable Backend
-- AI Tools
-- Advanced React
+### 💼 What I Do
 
-🏆 Competitive Programming
+- 🌐 Build Full Stack MERN Applications
+- ⚙️ Develop RESTful APIs & Authentication Systems
+- 🗄️ Design and Work with MongoDB Databases
+- 🧩 Solve Data Structures & Algorithms Problems
+- ☁️ Learn Backend Scalability & System Design
 
-- 🟠 LeetCode Rating **1872**
-- 💙 Codeforces **1252**
-- ⭐ CodeChef **2★**
-- 💻 **1150+ DSA Problems**
-- 🚀 **70+ Contests**
+---
 
-🎯 Goal
+### 📚 Currently Exploring
 
-Become a Software Development Engineer.
+- 🏗️ System Design
+- ☁️ Scalable Backend Architecture
+- 🤖 AI Tools for Developers
+- ⚛️ Advanced React
+- 🐳 Docker & Deployment
+
+---
+
+### 🏆 Competitive Programming
+
+- 🟠 **LeetCode:** 1872 Rating
+- 💙 **Codeforces:** 1252 Rating
+- ⭐ **CodeChef:** 2★
+- 💻 **1150+ DSA Problems Solved**
+- 🏅 **70+ Coding Contests**
+
+---
+
+### 🎯 2026 Goals
+
+- 🚀 Master the MERN Stack and build production-ready applications
+- 💙 Reach **1400+** on Codeforces
+- 🟠 Reach **1900+** on LeetCode
+- 🏗️ Master System Design & Scalable Backend Development
+- 🌐 Contribute to Open Source Projects
+- 💼 Secure a Software Development Engineer (SDE) role
+
+---
+
+### 💡 Fun Fact
+
+> I enjoy turning ideas into scalable applications and algorithmic solutions, one commit at a time. 🚀
 
 ---
 
