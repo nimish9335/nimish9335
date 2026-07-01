@@ -42,61 +42,17 @@ Hi 👋 I'm Nimish Patel
 
 ## 👋 Hi, I'm Nimish Patel
 
-🎓 **B.Tech Student @ NIT Raipur (2027)**
+🎓 B.Tech Student at **NIT Raipur** (Batch of 2027)
 
-💻 **Full Stack MERN Developer**
+💻 Full Stack **MERN Developer** with a strong interest in **Backend Development** and building scalable web applications.
 
-⚡ Passionate about building scalable backend systems, writing clean code, and solving challenging DSA problems.
+🧠 I enjoy solving challenging **Data Structures & Algorithms** problems and continuously improving my problem-solving skills through competitive programming.
 
-🚀 Currently preparing for **Software Development Engineer (SDE)** roles while continuously improving my development and problem-solving skills.
+🚀 Currently exploring **System Design**, **Scalable Backend Architecture**, **AI-powered Developer Tools**, and modern web technologies to build production-ready software.
 
----
+✨ I believe in writing clean, maintainable code, learning consistently, and turning ideas into impactful applications.
 
-### 💼 What I Do
-
-- 🌐 Build Full Stack MERN Applications
-- ⚙️ Develop RESTful APIs & Authentication Systems
-- 🗄️ Design and Work with MongoDB Databases
-- 🧩 Solve Data Structures & Algorithms Problems
-- ☁️ Learn Backend Scalability & System Design
-
----
-
-### 📚 Currently Exploring
-
-- 🏗️ System Design
-- ☁️ Scalable Backend Architecture
-- 🤖 AI Tools for Developers
-- ⚛️ Advanced React
-- 🐳 Docker & Deployment
-
----
-
-### 🏆 Competitive Programming
-
-- 🟠 **LeetCode:** 1872 Rating
-- 💙 **Codeforces:** 1252 Rating
-- ⭐ **CodeChef:** 2★
-- 💻 **1150+ DSA Problems Solved**
-- 🏅 **70+ Coding Contests**
-
----
-
-### 🎯 2026 Goals
-
-- 🚀 Master the MERN Stack and build production-ready applications
-- 💙 Reach **1400+** on Codeforces
-- 🟠 Reach **1900+** on LeetCode
-- 🏗️ Master System Design & Scalable Backend Development
-- 🌐 Contribute to Open Source Projects
-- 💼 Secure a Software Development Engineer (SDE) role
-
----
-
-### 💡 Fun Fact
-
-> I enjoy turning ideas into scalable applications and algorithmic solutions, one commit at a time. 🚀
-
+> **"Code. Learn. Build. Repeat. 🚀"**
 ---
 
 # 🛠 Tech Stack
