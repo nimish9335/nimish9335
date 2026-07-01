@@ -303,49 +303,6 @@ Hi 👋 I'm Nimish Patel
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:np4447292@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/nimish-patel-6b9827317/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/nimish9335">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
----
-
-# 💬 Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
-</p>
-
----
 
 # 📬 Reach Me
 
