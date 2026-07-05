@@ -60,8 +60,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
@@ -85,8 +83,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
----
-
 ## ⚙️ Backend
 
 <p align="center">
@@ -94,7 +90,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=express"/>
 </p>
 
----
+
 
 ## 🗄 Database
 
@@ -102,7 +98,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
----
+
 
 ## 🧰 Tools
 
@@ -127,7 +123,7 @@ Hi 👋 I'm Nimish Patel
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
----
+
 
 # 📊 GitHub Statistics
 
@@ -157,7 +153,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 
 # 🏆 Competitive Programming
 
@@ -173,7 +169,7 @@ Hi 👋 I'm Nimish Patel
 
 </p>
 
----
+
 
 # 🟠 LeetCode Statistics
 
@@ -183,7 +179,7 @@ Hi 👋 I'm Nimish Patel
 
 </p>
 
----
+
 
 # 🔵 Codeforces Statistics
 
@@ -197,7 +193,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -211,7 +207,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 # 🌐 Coding Profiles
 
 <p align="center">
@@ -238,7 +234,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 # 📬 Connect With Me
 
 <p align="center">
@@ -261,7 +257,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 # 💡 Favorite Quote
 
 <p align="center">
@@ -274,7 +270,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
----
+
 # ❤️ Thanks for Visiting
 
 <p align="center">
