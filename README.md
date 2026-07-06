@@ -11,7 +11,7 @@ Hi 👋 I'm Nimish Patel
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+MERN+Developer;LeetCode+Rating+1872;1150%2B+DSA+Problems+Solved;Backend+Developer;Open+Source+Learner;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+MERN+Developer;LeetCode+Rating+1872;1150%2B+DSA+Problems+Solved;Backend+Developer;Built+HireHub+Job+Portal"/>
 </p>
 
 <p align="center">
@@ -27,9 +27,7 @@ Hi 👋 I'm Nimish Patel
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-
 </p>
 
 # 💫 About Me
@@ -44,17 +42,69 @@ Hi 👋 I'm Nimish Patel
 
 ⚙️ Passionate about **Backend Development** and building scalable applications.
 
+🚀 Built and deployed **HireHub**, a production-ready Full Stack MERN Job Portal with Recruiter Dashboard, Candidate Portal, JWT Authentication, Cloudinary Integration, and REST APIs.
+
 🧩 Solved **1150+ DSA Problems**
 
 🏆 **LeetCode Rating : 1872**
 
 📈 **Codeforces Rating : 1252**
 
-✨ I enjoy solving challenging problems, building full-stack applications, and sharing useful programming resources with the developer community.
+✨ I enjoy solving challenging problems, building scalable applications, and continuously improving my problem-solving skills through Competitive Programming.
 
 > **"Code. Learn. Build. Repeat. 🚀"**
 
 <br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
+
+# 🚀 Featured Project
+
+## 💼 HireHub — Full Stack MERN Job Portal
+
+A production-ready Job Portal where **Recruiters** can manage companies, post jobs, and review applicants while **Candidates** can search jobs, apply, upload resumes, and manage their professional profiles.
+
+### ✨ Highlights
+
+- 🔐 JWT Authentication
+- 👨‍💼 Recruiter Dashboard
+- 👨‍🎓 Candidate Dashboard
+- 🏢 Company Management
+- 💼 Job Management
+- 📄 Resume Upload
+- ☁️ Cloudinary Integration
+- 🔍 Live Job Search
+- ⚡ Redux Toolkit State Management
+- 🚀 Production Deployment
+
+### 🛠 Tech Stack
+
+- React
+- Redux Toolkit
+- Tailwind CSS
+- Axios
+- Node.js
+- Express.js
+- MongoDB Atlas
+- JWT
+- Cloudinary
+
+### 🌐 Live Demo
+
+**Frontend**
+
+https://hire-hub-frontend-ten.vercel.app
+
+**Backend**
+
+https://hirehub-backend-8z42.onrender.com/
+
+### 📂 GitHub Repositories
+
+- 💻 Frontend Repository
+- ⚙️ Backend Repository
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
@@ -83,6 +133,8 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=react"/>
 </p>
 
+---
+
 ## ⚙️ Backend
 
 <p align="center">
@@ -90,7 +142,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=express"/>
 </p>
 
-
+---
 
 ## 🗄 Database
 
@@ -98,7 +150,7 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
-
+---
 
 ## 🧰 Tools
 
@@ -109,27 +161,39 @@ Hi 👋 I'm Nimish Patel
 <img src="https://skillicons.dev/icons?i=postman"/>
 <img src="https://skillicons.dev/icons?i=npm"/>
 </p>
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | 📖 Description |
-|------------|----------------|
-| 💼 **HireHub** | Full Stack MERN Job Portal with Authentication, Recruiter & Candidate Modules |
-| 📚 **Competitive Programming Templates** | Collection of reusable C++ templates, algorithms and CP snippets |
-| 🧩 **DSA Notes** | Well-organized DSA notes with concepts, patterns and interview preparation |
-| 🐍 **Python Practice** | Python syntax, coding questions and solutions from beginner to intermediate |
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
+# 🚀 Featured Projects
+
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 💼 **HireHub** | Production-ready Full Stack MERN Job Portal with Authentication, Recruiter Dashboard, Candidate Portal, Cloudinary Integration, and REST APIs |
+| 📚 **Competitive Programming Templates** | Collection of reusable C++ templates, algorithms, STL snippets, and contest utilities |
+| 🧩 **DSA Notes** | Well-organized DSA notes covering patterns, algorithms, and interview preparation |
+| 🐍 **Python Practice** | Beginner to Intermediate Python practice questions, syntax, and solutions |
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com?user=nimish9335&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nimish9335&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimish9335&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=nimish9335&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -153,8 +217,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-
-
 # 🏆 Competitive Programming
 
 <p align="center">
@@ -169,7 +231,19 @@ Hi 👋 I'm Nimish Patel
 
 </p>
 
+---
 
+## 📈 Coding Highlights
+
+- 🧩 Solved **1150+ DSA Problems**
+- 🏆 **LeetCode Rating:** 1872
+- 📈 **Codeforces Rating:** 1252
+- ⭐ **CodeChef:** 2★
+- 💻 Regular Competitive Programming Contest Participant
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 # 🟠 LeetCode Statistics
 
@@ -179,7 +253,9 @@ Hi 👋 I'm Nimish Patel
 
 </p>
 
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+</p>
 
 # 🔵 Codeforces Statistics
 
@@ -193,8 +269,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -206,7 +280,6 @@ Hi 👋 I'm Nimish Patel
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-
 
 # 🌐 Coding Profiles
 
@@ -234,7 +307,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-
 # 📬 Connect With Me
 
 <p align="center">
@@ -257,19 +329,18 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-
 # 💡 Favorite Quote
 
 <p align="center">
 
-> **"First, solve the problem. Then, write the code."**
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
 </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
-
 
 # ❤️ Thanks for Visiting
 
@@ -280,6 +351,7 @@ Hi 👋 I'm Nimish Patel
 </p>
 
 ---
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:7B61FF,100:FF4D8D&text=See%20You%20Again!&fontColor=ffffff&fontSize=40&animation=twinkling&section=footer"/>
