@@ -60,56 +60,6 @@ Hi 👋 I'm Nimish Patel
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 </p>
 
-# 🚀 Featured Project
-
-## 💼 HireHub — Full Stack MERN Job Portal
-
-A production-ready Job Portal where **Recruiters** can manage companies, post jobs, and review applicants while **Candidates** can search jobs, apply, upload resumes, and manage their professional profiles.
-
-### ✨ Highlights
-
-- 🔐 JWT Authentication
-- 👨‍💼 Recruiter Dashboard
-- 👨‍🎓 Candidate Dashboard
-- 🏢 Company Management
-- 💼 Job Management
-- 📄 Resume Upload
-- ☁️ Cloudinary Integration
-- 🔍 Live Job Search
-- ⚡ Redux Toolkit State Management
-- 🚀 Production Deployment
-
-### 🛠 Tech Stack
-
-- React
-- Redux Toolkit
-- Tailwind CSS
-- Axios
-- Node.js
-- Express.js
-- MongoDB Atlas
-- JWT
-- Cloudinary
-
-### 🌐 Live Demo
-
-**Frontend**
-
-https://hire-hub-frontend-ten.vercel.app
-
-**Backend**
-
-https://hirehub-backend-8z42.onrender.com/
-
-### 📂 GitHub Repositories
-
-- 💻 Frontend Repository
-- ⚙️ Backend Repository
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
-</p>
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
